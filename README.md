@@ -22,8 +22,6 @@
   <a href="https://www.linkedin.com/in/lucas-araujo-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:Luc4s_santos.s@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   
-   ![Snake animation](https://github.com/Luc4s-Ara/Luc4s-Ara/blob/output/github-contribution-grid-snake.svg)
-   
 </div>
 
 

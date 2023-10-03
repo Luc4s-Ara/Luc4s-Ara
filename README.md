@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/Luc4s-Ara">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Luc4s-Ara&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luc4s-Ara&layout=compact&langs_count=7&theme=aura_dark"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Luc4s-Ara&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luc4s-Ara&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
